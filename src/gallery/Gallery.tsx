@@ -1,6 +1,5 @@
 import { Section } from "@/layout/Section";
 import Link from "next/link";
-import Image from "next/image";
 import ImageComponent from "./ImageComponent";
 
 const Gallery = () => {

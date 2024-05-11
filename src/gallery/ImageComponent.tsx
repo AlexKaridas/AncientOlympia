@@ -16,11 +16,11 @@ const ImageComponent = () => {
       <p className="text-lg text-center sm:text-left">
         In the Altis of Olympia was an Ionic circular memorial in limestone and
         marble, a tholos, which contained chryselephantine (ivory and gold)
-        statues of Philip's family: himself, Alexander the Great, Olympias,
+        statues of Philip&apos;s family: himself, Alexander the Great, Olympias,
         Amyntas III and Eurydice I. It was made by the Athenian sculptor
-        Leochares in celebration of Philip's victory at the battle of Chaeronea
-        (338 BC). It was the only structure inside the Altis dedicated to a
-        human.
+        Leochares in celebration of Philip&apos;s victory at the battle of
+        Chaeronea (338 BC). It was the only structure inside the Altis dedicated
+        to a human.
       </p>
     </>
   );
