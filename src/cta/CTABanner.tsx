@@ -17,8 +17,8 @@ const CTABanner = (props: ICTABannerProps) => (
       />
     </div>
     <div className="font-medium">
-      <div className="text-gray-300 text-xl">{props.title}</div>
-      <div className="text-primary-600 text-lg">
+      <div className="text-gray-300 text-md sm:text-lg">{props.title}</div>
+      <div className="text-primary-600 text-md sm:text-lg">
         {props.subtitle && props.subtitle}
       </div>
     </div>
